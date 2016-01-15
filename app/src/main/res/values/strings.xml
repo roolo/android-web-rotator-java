@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="pause_timer">Pause</string>
+<string name="open_in_browser">Browser</string>
+<string name="app_name">WebPageRotator</string>
+</resources>
